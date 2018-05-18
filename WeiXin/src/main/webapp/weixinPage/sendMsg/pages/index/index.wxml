@@ -1,0 +1,7 @@
+
+<!--index.wxml-->
+<form name='pushMsgFm' report-submit bindsubmit='sendMsg'>  
+    标题:<input type="text" name="product" value='' placeholder="enter your title" />  
+    内容: <input type="text" name='detail' placeholder="enter detail" />   
+    <button form-type="submit">send</button>  
+</form>

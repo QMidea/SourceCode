@@ -53,10 +53,10 @@ public class MessageController {
 			tem.setUrl("");  
 			
 			List<TemplateParam> paras=new ArrayList<TemplateParam>();  
-			paras.add(new TemplateParam("keyword1","电风扇","#0044BB"));  
-			paras.add(new TemplateParam("keyword2","287368726886","#0044BB"));  
-			paras.add(new TemplateParam("keyword3","订单派送中!!!!","#AAAAAA"));  
-			paras.add(new TemplateParam("keyword4","3326760853816","#0044BB"));  
+			paras.add(new TemplateParam("keyword1","猪猪侠","#0044BB"));  
+			paras.add(new TemplateParam("keyword2","999","#0044BB"));  
+			paras.add(new TemplateParam("keyword3","成个猪栏最叻就系你","#AAAAAA"));  
+			paras.add(new TemplateParam("keyword4","666","#0044BB"));  
 			paras.add(new TemplateParam("keyword5","131123456789","#AAAAAA"));  
 			          
 			tem.setTemplateParamList(paras);        
